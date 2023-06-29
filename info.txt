@@ -1,0 +1,2 @@
+step 1:- "git init" for intialization
+step 2:- we will the file from the working directory to staging area
