@@ -1,2 +1,4 @@
 step 1:- "git init" for intialization
-step 2:- we will the file from the working directory to staging area
+step 2:- we will the file from the working directory to staging area git add filename and checking git status
+for adding all the files together in git  we use git add .
+step 3:- get commit -m"Message(Present tense)"
